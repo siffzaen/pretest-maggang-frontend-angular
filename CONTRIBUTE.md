@@ -13,7 +13,7 @@ serta cc ke
 - kiki.rizki@tabeldata.com
 
 dengan format
-- Subtitle: `Magang - <position>` contohnya `Magang - BACKEND-GOLANG`
+- Subtitle: `Magang - <position>` contohnya `Magang - FRONTEND-ANGULAR`
 - message: 
 
 ```text
