@@ -1,0 +1,19 @@
+Apa yang anda ketahui tentang Rest API?
+
+Rest API merupakan antarmuka yang digunakan oleh dua sistem komputer untuk bertukar informasi secara aman melalui internet. Cara kerja REST API adalah REST client akan mengakses data/resource ke REST server dimana masing-masing resource atau data tersebut dibedakan oleh sebuah global ID atau URIs (Universal Resource Identifiers). Data yang diberikan oleh REST server itu bisa berupa format text, JSON atau XML. RESTFUL API memiliki 4 komponen penting yaitu: URL Design, HTTP Verbs, HTTP Response Code, Format Response.
+
+Apa yang anda ketahui tentang Server side and Client side processing?
+
+arsitektur client-server – arsitektur yang didasarkan pada klien, server, dan resource, di mana permintaan akan dibuat melalui protokol HTTP. Kondisi ini menunjukkan independensi antara klien dan server, yang berarti perubahan yang dilakukan oleh user pada aplikasi di perangkatnya tidak akan memengaruhi server dan struktur datanya. Demikian pula, perubahan yang dilakukan oleh developer ke database aplikasi seharusnya tidak langsung berdampak pada perangkat pengguna.
+
+Apa yang anda ketahui tentang Design pattern Dependency Injection?
+
+Design pattern Dependency Injection adalah sebuah desain pattern dimana suatu objek menerima objek atau fungsi lain yang dibutuhkan oleh objek tersebut. injector atau biasa juga disebut dengan container, provider, atau ansembler adalah objek yang berfungsi untuk membangun dan menghubungkan objek-objek yang kompleks dimana objek-objek tersebut dapat berperan sebagai service, client, atau keduanya.
+
+Apa yang anda ketahui tentang Typescript dan Angular framework?
+
+TypeScript adalah bahasa pemrograman open source yang dikembangkan oleh tim Microsoft atau yang sebelumnya adalah JavaScript dengan tambahan beberapa sintaks untuk type system atau mengatur tipe data pada JavaScript. sedangkan, Angular framework merupakan framework software open-source yang digunakan untuk membuat aplikasi single-page berbasis website. Framework ini juga cukup populer bagi para developer untuk membuat menu animasi di laman web HTML.
+
+Apa yang anda ketahui tentang Microfrontend?
+
+Micro FrontEnd merupakan penerapan arsitektur FrontEnd yang didasarkan pada pengaturan modul atau proyek. Pada akhirnya, sama seperti arsitektur lainnya. membuat kita menerka apakah implementasinya cocok dengan kita atau tidak, dan perlu disesuaikan dengan kebutuhan yang ada.
